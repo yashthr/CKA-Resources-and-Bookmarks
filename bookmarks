@@ -1,0 +1,29 @@
+Cheat Sheet - https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+K8S Installation 1 - https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
+K8S Installation 2 - https://kubernetes.io/docs/setup/production-environment/container-runtimes/
+K8S Installation 3 - https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/
+Services - https://kubernetes.io/docs/concepts/services-networking/service/
+Namespaces (kubectl api-resources) - https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/
+Deployments (rolling update below) - https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
+Assigning Pods to Nodes - https://kubernetes.io/docs/concepts/scheduling-eviction/assign-pod-node/
+Taints and Tolerations - https://kubernetes.io/docs/concepts/scheduling-eviction/taint-and-toleration/
+Assign Pods to Nodes using Node Affinity - https://kubernetes.io/docs/tasks/configure-pod-container/assign-pods-nodes-using-node-affinity/
+Resource Requests and Limits for Pods - https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/
+Resource Quotas - https://kubernetes.io/docs/concepts/policy/resource-quotas/
+Limit Ranges - https://kubernetes.io/docs/concepts/policy/limit-range/
+DaemonSet - https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/
+Environment Variables - https://kubernetes.io/docs/tasks/inject-data-application/define-environment-variable-container/
+Environment Variables (envFrom) - https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/
+ConfigMaps - https://kubernetes.io/docs/concepts/configuration/configmap/
+Secrets - https://kubernetes.io/docs/concepts/configuration/secret/?ref=hackernoon.com
+Creating Secret using kubectl - https://kubernetes.io/docs/tasks/configmap-secret/managing-secret-using-kubectl/
+Init Containers - https://kubernetes.io/docs/concepts/workloads/pods/init-containers/
+Upgrading Clusters using Kubeadm - https://kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade/
+R,RB,CR,CRB (RBAC) - https://kubernetes.io/docs/reference/access-authn-authz/rbac/
+Certificate Signing Requests - https://kubernetes.io/docs/reference/access-authn-authz/certificate-signing-requests/#create-certificate-request-kubernetes-object
+Network Policies - https://kubernetes.io/docs/concepts/services-networking/network-policies/
+Volumes - https://kubernetes.io/docs/concepts/storage/volumes/
+PV,PVC,(Attach pv,pvc to pod) - https://kubernetes.io/docs/tasks/configure-pod-container/configure-persistent-volume-storage/
+PV,PVC (mysql) - https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/
+Weavenet Plugin - https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/high-availability/
+Ingress - https://kubernetes.io/docs/concepts/services-networking/ingress/
